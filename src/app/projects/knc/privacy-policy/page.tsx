@@ -25,7 +25,7 @@ export default function KNCPrivacyPolicy() {
               <p className="text-lg mb-4">
                 <b>Last updated:</b> April 19, 2025<br/><br/>
 
-                Knots & Chaos (“the App”) is a mobile game developed by José Ignacio Hernández Monroy. This Privacy Policy explains how we collect, use, and protect your information.              
+                Knots & Chaos (“the App”) is a mobile game developed by Ignacio Hernández. This Privacy Policy explains how we collect, use, and protect your information.              
               </p>
               <h2 className="text-2xl font-semibold mb-4">1. Information we collect</h2>
               <p className="text-lg mb-4">

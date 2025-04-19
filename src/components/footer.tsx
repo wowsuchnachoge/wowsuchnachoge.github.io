@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className="text-gray-500 py-4">
       <div className="text-center space-y-4">
-        <p className="text-sm">&copy; {new Date().getFullYear()} Ignacio Hernández Monroy<br/>Made with 💻 and ❤️ in Mexico</p>
+        <p className="text-sm">&copy; {new Date().getFullYear()} Ignacio Hernández<br/>Made with 💻 and ❤️ in Mexico</p>
         <div className="flex justify-center space-x-6">
           <a
             href="https://github.com/wowsuchnachoge"

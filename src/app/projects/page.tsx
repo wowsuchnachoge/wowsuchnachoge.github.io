@@ -19,13 +19,13 @@ export default function Projects() {
       <Navbar selectedMenuItem={2} />
       <section className="py-6 px-6 max-w-7xl mx-auto">
         <div className="flex flex-col md:flex-row items-center md:items-start gap-8">
-          <div className="flex-shrink-0 portrait:hidden">
+          {/* <div className="flex-shrink-0 portrait:hidden">
             <img
               src="/projects.jpg"
               alt="IHM"
               className="w-60 h-60 rounded-xl mt-6 md:mt-0 object-cover "
             />
-          </div>
+          </div> */}
           <div>
             <h2 className="text-4xl font-semibold">Projects 🛠️</h2>
             {projects.map((project) => (
