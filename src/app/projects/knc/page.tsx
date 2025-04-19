@@ -33,6 +33,8 @@ export default function KNC() {
                 Classic tic-tac-toe... reimagined as a fast-paced digital battlefield.<br/>
                 Play online, win matches, win XP, and unleash chaos with your friends!<br/><br/>
 
+                Welcome to Knots & Chaos, a reinvented take on the classic Xs and Os — faster, more competitive, and stylishly chaotic enough to distract you from your existential doomscrolling.<br/><br/>
+
                 <b>Play online 1v1 matches, rack up points with every win.</b><br/><br/>
 
                 If you’re going to play tic-tac-toe in 2025, at least make it awesome.<br/><br/>
