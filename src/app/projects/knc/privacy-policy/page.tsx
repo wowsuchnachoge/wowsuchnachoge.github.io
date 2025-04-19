@@ -1,7 +1,6 @@
 import AppStoreButtons from "@/components/app_store_buttons";
 import { KNC_AS_URL, KNC_GP_URL } from "@/components/constants";
 import Navbar from "@/components/navbar";
-import ScreenshotGallery from "@/components/screenshot_gallery";
 
 export default function KNCPrivacyPolicy() {
   return (
@@ -73,7 +72,7 @@ export default function KNCPrivacyPolicy() {
               </p>
               <h2 className="text-2xl font-semibold mb-4">6. Contact</h2>
               <p className="text-lg mb-4">
-                If you have any questions, please contact us at: <a href="mailto:ignacio.hernandez.monroy@gmail.com" className="text-green-500 hover:text-green-700">ignacio.hernandez.monroy@gmail.com</a>
+                If you have any questions, please contact us at: <a href="mailto:contact.ihm.dev@gmail.com" className="text-green-500 hover:text-green-700">contact.ihm.dev@gmail.com</a>
               </p>
             </section>
           </div>

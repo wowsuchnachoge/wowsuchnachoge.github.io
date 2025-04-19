@@ -6,13 +6,6 @@ export default function About() {
       <Navbar selectedMenuItem={1} />
       <section className="py-6 px-6 max-w-7xl mx-auto">
         <div className="flex flex-col md:flex-row items-center md:items-start gap-8">
-          {/* <div className="flex-shrink-0">
-            <img
-              src="/me.jpeg"
-              alt="IHM"
-              className="w-60 h-60 rounded-xl mt-6 md:mt-0 object-cover shadow-md"
-            />
-          </div> */}
           <div>
             <h2 className="text-4xl font-semibold mb-4">About me 🧑‍💻</h2>
             <p className="text-lg mb-6">

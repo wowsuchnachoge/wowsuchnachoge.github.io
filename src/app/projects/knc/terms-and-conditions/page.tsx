@@ -51,7 +51,7 @@ export default function KNCTermsAndConditions() {
               </p>
               <h2 className="text-2xl font-semibold mb-4">7. Contact</h2>
               <p className="text-lg mb-4">
-              For any questions regarding these terms, please contact us at: <a href="mailto:ignacio.hernandez.monroy@gmail.com" className="text-green-500 hover:text-green-700">ignacio.hernandez.monroy@gmail.com</a>
+              For any questions regarding these terms, please contact us at: <a href="mailto:contact.ihm.dev@gmail.com" className="text-green-500 hover:text-green-700">contact.ihm.dev@gmail.com</a>
               </p>
             </section>
           </div>

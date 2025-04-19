@@ -23,7 +23,7 @@ export default function Footer() {
             <FaLinkedin className="w-5 h-5" />
           </a>
           <a
-          href="mailto:ignacio.hernandez.monroy@gmail.com"
+          href="mailto:contact.ihm.dev@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-green-700 transition-colors"
