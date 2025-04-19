@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Ignacio Hernandez Monroy",
-  description: "IHM: developer. Personal site",
+  description: "IHM Development personal site",
 };
 
 export default function RootLayout({
