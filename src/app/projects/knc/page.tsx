@@ -57,10 +57,10 @@ export default function KNC() {
             <section className="mb-6 flex flex-col items-left">
               <h2 className="text-4xl font-semibold mb-4">App information</h2>
               <a href="/projects/knc/privacy-policy" className="text-green-500 hover:text-green-700 mb-4">
-                Privacy policy →
+                Privacy policy
               </a>
               <a href="/projects/knc/terms-and-conditions" className="text-green-500 hover:text-green-700 mb-4">
-                Terms & conditions →
+                Terms & conditions
               </a>
             </section>
           </div>
