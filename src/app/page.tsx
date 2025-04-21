@@ -14,7 +14,7 @@ export default function Home() {
           <p className="mb-6">
             Classic tic-tac-toe... reimagined as a fast-paced digital battlefield.<br/>
             Play online, win matches, win XP, and unleash chaos with your friends!<br/>
-            <b>Now available for iOS and Android!</b>
+            <b>Now available for iOS! (coming soon on Android)</b>
           </p>
           <a href="/projects/knc">
             <img src="/knc.png" alt="Knots & Chaos logo" className="max-w-3/4 mx-auto mb-6 md:max-w-sm shadow-md rounded-xl" />

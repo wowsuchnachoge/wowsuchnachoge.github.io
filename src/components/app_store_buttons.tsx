@@ -14,9 +14,9 @@ export default function AppStoreButtons({
       <a href={appStoreUrl} target="_blank">
         <img src="/app_store_logo.svg" alt="Download on App Store" className={`shadow-md ${buttonHeight}`}/>
       </a>
-      <a href={googlePlayUrl} target="_blank">
+      {/* <a href={googlePlayUrl} target="_blank">
         <img src="/google_play_logo.png" alt="Get it on Google Play" className={`shadow-md ${buttonHeight}`}/>
-      </a>
+      </a> */}
     </div>
   );
 }
